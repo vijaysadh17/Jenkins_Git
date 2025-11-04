@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="EDUBank Suite">
+    <test name="Verify Login">
+        <classes>
+            <class name="com.edubank.tests.VerifyLoginTest"/>
+        </classes>
+    </test>
+</suite>
